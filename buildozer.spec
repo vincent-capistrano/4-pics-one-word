@@ -14,7 +14,7 @@ source.include_exts = py,png,jpg,kv,json,atlas
 icon.filename = %(source.dir)s/icon.png
 
 # Python / Kivy requirements
-requirements = python3,kivy==2.2.1,requests,pillow,certifi,charset-normalizer,idna,urllib3
+requirements = python3,kivy==2.3.0,requests,pillow,certifi,charset-normalizer,idna,urllib3
 
 # Orientation
 orientation = portrait

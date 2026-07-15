@@ -25,6 +25,7 @@ android.minapi = 21
 android.ndk    = 25b
 android.sdk    = 33
 android.archs  = arm64-v8a, armeabi-v7a
+android.accept_sdk_license = True
 
 # Permissions
 android.permissions = INTERNET, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE

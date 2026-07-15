@@ -50,7 +50,8 @@ jobs:
             libtinfo5 \
             cmake \
             libffi-dev \
-            libssl-dev
+            libssl-dev \
+            libunwind-dev
 
       - name: Install buildozer and dependencies
         run: |
